@@ -1,0 +1,9 @@
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\bin\Release\netcoreapp2.1\CustomMiddleware.deps.json
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\bin\Release\netcoreapp2.1\CustomMiddleware.dll
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\bin\Release\netcoreapp2.1\CustomMiddleware.pdb
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\obj\Release\netcoreapp2.1\CustomMiddleware.csprojAssemblyReference.cache
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\obj\Release\netcoreapp2.1\CustomMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\obj\Release\netcoreapp2.1\CustomMiddleware.AssemblyInfoInputs.cache
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\obj\Release\netcoreapp2.1\CustomMiddleware.AssemblyInfo.cs
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\obj\Release\netcoreapp2.1\CustomMiddleware.dll
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\obj\Release\netcoreapp2.1\CustomMiddleware.pdb

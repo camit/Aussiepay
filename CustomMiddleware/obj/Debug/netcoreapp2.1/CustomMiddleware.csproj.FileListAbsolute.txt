@@ -1,0 +1,8 @@
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\bin\Debug\netcoreapp2.1\CustomMiddleware.deps.json
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\bin\Debug\netcoreapp2.1\CustomMiddleware.dll
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\bin\Debug\netcoreapp2.1\CustomMiddleware.pdb
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.AssemblyInfoInputs.cache
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.AssemblyInfo.cs
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.dll
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\CustomMiddleware\obj\Debug\netcoreapp2.1\CustomMiddleware.pdb

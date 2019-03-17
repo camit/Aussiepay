@@ -1,0 +1,14 @@
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\bin\Release\netcoreapp2.1\Sample.WebAPI.deps.json
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\bin\Release\netcoreapp2.1\Sample.WebAPI.runtimeconfig.json
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\bin\Release\netcoreapp2.1\Sample.WebAPI.runtimeconfig.dev.json
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\bin\Release\netcoreapp2.1\Sample.WebAPI.dll
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\bin\Release\netcoreapp2.1\Sample.WebAPI.pdb
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\bin\Release\netcoreapp2.1\CustomMiddleware.dll
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\bin\Release\netcoreapp2.1\CustomMiddleware.pdb
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\obj\Release\netcoreapp2.1\Sample.WebAPI.csprojAssemblyReference.cache
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\obj\Release\netcoreapp2.1\Sample.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\obj\Release\netcoreapp2.1\Sample.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\obj\Release\netcoreapp2.1\Sample.WebAPI.AssemblyInfo.cs
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\obj\Release\netcoreapp2.1\Sample.WebAPI.csproj.CopyComplete
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\obj\Release\netcoreapp2.1\Sample.WebAPI.dll
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI\obj\Release\netcoreapp2.1\Sample.WebAPI.pdb

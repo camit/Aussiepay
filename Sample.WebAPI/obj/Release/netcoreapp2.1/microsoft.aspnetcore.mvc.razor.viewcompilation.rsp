@@ -1,0 +1,5 @@
+C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI
+--output-path=obj\Release\netcoreapp2.1\
+--application-name=Sample.WebAPI
+--content-root=C:\Users\Amit\Desktop\CustomMiddleware\CustomMiddleware\Sample.WebAPI
+--file=
