@@ -41,7 +41,10 @@ namespace CustomMiddleware.Test
             Assert.Equal((int)HttpStatusCode.OK, context.Response.StatusCode); 
         }
 
-
+        /// <summary>
+        /// This test will test when method is GET
+        /// </summary>
+        /// <returns>Return Status Code 418</returns>
         [Fact]
         public async Task WhenMethodGET()
         {
@@ -69,6 +72,10 @@ namespace CustomMiddleware.Test
             Assert.Equal(418, context.Response.StatusCode);
         }
 
+        /// <summary>
+        /// This test will test when method is POST
+        /// </summary>
+        /// <returns>Return Status Code 418</returns>
         [Fact]
         public async Task WhenMethodPOST()
         {
@@ -96,6 +103,10 @@ namespace CustomMiddleware.Test
             Assert.Equal(418, context.Response.StatusCode);
         }
 
+        /// <summary>
+        /// This test will test when method is DELETE
+        /// </summary>
+        /// <returns>Return Status Code 418</returns>
         [Fact]
         public async Task WhenMethodDELETE()
         {
